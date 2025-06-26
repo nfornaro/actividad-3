@@ -1,3 +1,3 @@
-# Actividad 3
+# Guía de trabajo
 
-Código para la tercera actividad
+Código para la guía de trabajo de k8s
